@@ -1,0 +1,23 @@
+{
+  "name": "lineImporter",
+  "version": "1.0.0",
+  "description": "Processa arquivos de uma pasta, lendo linha a linha e",
+  "main": "import.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgbfernando/lineImporter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgbfernando/lineImporter/issues"
+  },
+  "homepage": "https://github.com/kgbfernando/lineImporter#readme",
+  "dependencies": {
+    "n-readlines": "^1.0.0"
+  }
+}
